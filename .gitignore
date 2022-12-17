@@ -1,0 +1,3 @@
+*.dill
+*.gz
+.DS_Store
